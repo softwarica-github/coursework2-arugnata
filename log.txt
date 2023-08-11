@@ -1,0 +1,190 @@
+2023-07-27 18:05:21 - Encrypted Text: Ph
+2023-07-27 18:10:23 - Encrypted Text: PMg
+2023-07-27 18:12:36 - Encrypted Text: DD
+2023-07-27 18:14:50 - Encrypted Text: PMg
+2023-07-27 18:14:53 - Decrypted Text: hey
+2023-07-27 18:22:33 - Encrypted Text: #-DDG
+2023-07-27 18:22:36 - Decrypted Text: hello
+2023-07-27 18:24:21 - Encrypted Text: F19
+2023-07-27 18:24:23 - Copied text to clipboard.
+2023-07-27 18:24:25 - Decrypted Text: sai
+2023-07-27 18:33:41 - Opening Image Hiding App options window.
+2023-07-27 18:33:45 - Opening image.
+2023-07-27 18:33:54 - Decrypting and decompressing image.
+2023-07-27 18:33:58 - Decompressing data.
+2023-07-27 18:33:58 - Decrypting data.
+2023-07-27 18:34:07 - Checking metadata.
+2023-07-27 18:58:41 - starting Image Encryption Decryption
+2023-07-27 19:58:29 - Frame2 Decode started.
+2023-07-27 19:58:36 - Decoding started.
+2023-07-27 20:05:30 - Start button clicked.
+2023-07-27 20:05:33 - starting Image Encryption Decryption
+2023-07-27 20:05:38 - Opening Image Hiding App.
+2023-07-27 20:05:41 - Opening Image Hiding App options window.
+2023-07-27 20:39:52 - Encrypted Text: spww
+2023-07-27 20:39:54 - Copied text to clipboard.
+2023-07-27 20:39:55 - Pasted text from clipboard.
+2023-07-27 20:39:56 - Decrypted Text: hell
+2023-07-27 20:45:45 - Encrypted Text: nkrru
+2023-07-27 20:45:46 - Copied text to clipboard.
+2023-07-27 20:45:47 - Pasted text from clipboard.
+2023-07-27 20:45:49 - Decrypted Text: hello
+2023-07-27 21:49:43 - Encrypted Text: PMg
+2023-07-27 21:49:45 - Copied text to clipboard.
+2023-07-27 21:49:46 - Pasted text from clipboard.
+2023-07-27 21:49:47 - Decrypted Text: hey
+2023-07-27 23:06:56 - Decrypted Text: !#AUOPYqjhZ
+2023-07-27 23:06:56 - Encrypted Text: PmttwHewztlF
+2023-07-27 23:09:05 - Decrypted Text: (+AUORYqjhZ
+2023-07-27 23:09:05 - Encrypted Text: PmttwHewztl(
+2023-07-27 23:10:22 - Decrypted Text: Ebiil#%loia3
+2023-07-27 23:10:22 - Encrypted Text: PmttwHewztl(
+2023-08-05 04:35:53 - Start button clicked.
+2023-08-05 04:35:56 - starting Image Encryption Decryption
+2023-08-05 04:36:01 - Opening Image Hiding App.
+2023-08-05 04:36:05 - Opening Image Hiding App options window.
+2023-08-05 04:37:07 - Decrypted Text: Ebiil#%loia3
+2023-08-05 04:37:07 - Encrypted Text: PmttwHewztl(
+2023-08-05 04:50:09 - Start button clicked.
+2023-08-05 04:58:42 - Start button clicked.
+2023-08-05 05:00:33 - Start button clicked.
+2023-08-05 05:02:11 - Start button clicked.
+2023-08-05 05:02:51 - Start button clicked.
+2023-08-05 05:03:11 - Start button clicked.
+2023-08-05 05:11:31 - Start button clicked.
+2023-08-05 05:11:57 - Start button clicked.
+2023-08-05 05:12:19 - Start button clicked.
+2023-08-05 05:13:24 - Start button clicked.
+2023-08-05 05:13:37 - Start button clicked.
+2023-08-05 05:14:22 - Start button clicked.
+2023-08-05 05:14:58 - Start button clicked.
+2023-08-05 05:16:04 - Start button clicked.
+2023-08-05 05:16:42 - Encrypted Text: gJM@eTUV
+2023-08-05 05:16:43 - Copied text to clipboard.
+2023-08-05 05:16:44 - Pasted text from clipboard.
+2023-08-05 05:16:46 - Decrypted Text: Arug@123
+2023-08-05 05:16:50 - Frame2 Decode started.
+2023-08-05 05:16:57 - Decoding started.
+2023-08-05 05:17:01 - Viewed stored images.
+2023-08-05 05:17:09 - Start button clicked.
+2023-08-05 05:21:26 - Start button clicked.
+2023-08-05 05:41:34 - Start button clicked.
+2023-08-05 05:41:36 - starting visual cryptography
+2023-08-05 05:45:10 - starting visual cryptography
+2023-08-10 22:55:46 - Start button clicked.
+2023-08-10 22:55:52 - starting Image Encryption Decryption
+2023-08-10 22:55:57 - Opening Image Hiding App.
+2023-08-10 22:56:02 - Opening Image Hiding App options window.
+2023-08-11 04:51:26 - Encrypted Text: MJQQU
+2023-08-11 04:51:28 - Copied text to clipboard.
+2023-08-11 04:51:29 - Pasted text from clipboard.
+2023-08-11 04:51:30 - Decrypted Text: hellp
+2023-08-11 05:02:59 - Encrypted Text: #8BBE
+2023-08-11 05:03:00 - Copied text to clipboard.
+2023-08-11 05:03:02 - Pasted text from clipboard.
+2023-08-11 05:03:03 - Decrypted Text: jello
+2023-08-11 05:03:21 - Image analysis error: No image selected.
+2023-08-11 07:13:19 - Frame2 Decode started.
+2023-08-11 07:13:31 - Decoding started.
+2023-08-11 07:17:19 - Frame2 Decode started.
+2023-08-11 07:17:24 - Decoding started.
+2023-08-11 07:17:47 - Frame2 Decode started.
+2023-08-11 07:17:53 - Decoding started.
+2023-08-11 07:38:12 - Start button clicked.
+2023-08-11 07:38:18 - Decrypting shares.
+2023-08-11 07:38:29 - Verifying signature.
+2023-08-11 07:38:29 - Verifying signature.
+2023-08-11 07:38:44 - starting visual cryptography
+2023-08-11 07:40:34 - Verifying digital signature.
+2023-08-11 07:40:57 - Verifying signature.
+2023-08-11 07:40:57 - Verifying signature.
+2023-08-11 07:41:03 - Opening save combined image window.
+2023-08-11 07:41:05 - Saving combined image.
+2023-08-11 07:41:22 - starting Image Encryption Decryption
+2023-08-11 07:42:48 - Image Decrypted successfully
+2023-08-11 07:43:06 - Image reset to the original format
+2023-08-11 07:43:45 - Opening Image Hiding App.
+2023-08-11 07:47:27 - Opening Image Hiding App.
+2023-08-11 07:49:40 - Encrypted Text: WTaad2qrs
+2023-08-11 07:49:43 - Copied text to clipboard.
+2023-08-11 07:49:45 - Pasted text from clipboard.
+2023-08-11 07:49:47 - Decrypted Text: hello#123
+2023-08-11 07:51:28 - Frame2 Decode started.
+2023-08-11 07:51:34 - Decoding started.
+2023-08-11 07:52:04 - Image analyzed: The image is encoded.
+2023-08-11 07:52:13 - Image store error: Invalid store path.
+2023-08-11 07:52:35 - Opening Image Hiding App.
+2023-08-11 07:52:37 - Selecting cover image.
+2023-08-11 07:53:01 - Selecting secret image.
+2023-08-11 07:53:12 - Hiding secret image.
+2023-08-11 07:53:46 - Loading stego image.
+2023-08-11 07:54:06 - Extracting hidden image.
+2023-08-11 07:56:01 - Opening Image Hiding App options window.
+2023-08-11 08:04:42 - Opening Image Hiding App options window.
+2023-08-11 08:04:45 - Opening image.
+2023-08-11 08:05:07 - Encrypting and compressing image.
+2023-08-11 08:05:07 - Encrypting data.
+2023-08-11 08:05:07 - Compressing data.
+2023-08-11 08:05:52 - Decrypting and decompressing image.
+2023-08-11 08:05:56 - Decompressing data.
+2023-08-11 08:05:56 - Decrypting data.
+2023-08-11 08:06:34 - Checking metadata.
+2023-08-11 08:25:27 - Encrypted Text: qnuuxI-!@
+2023-08-11 08:25:30 - Copied text to clipboard.
+2023-08-11 08:25:32 - Pasted text from clipboard.
+2023-08-11 08:25:35 - Decrypted Text: hello#123
+2023-08-11 08:27:16 - Frame2 Decode started.
+2023-08-11 08:27:24 - Decoding started.
+2023-08-11 08:28:00 - Image analyzed: The image is encoded.
+2023-08-11 08:28:22 - Image stored successfully.
+2023-08-11 08:28:29 - Viewed stored images.
+2023-08-11 08:28:43 - Start button clicked.
+2023-08-11 08:29:05 - starting visual cryptography
+2023-08-11 08:29:44 - Creating shares.
+2023-08-11 08:29:44 - Adding digital signature.
+2023-08-11 08:29:44 - Adding digital signature.
+2023-08-11 08:29:51 - Creating shares.
+2023-08-11 08:29:51 - Adding digital signature.
+2023-08-11 08:29:51 - Adding digital signature.
+2023-08-11 08:30:04 - starting visual cryptography
+2023-08-11 08:30:28 - Creating shares.
+2023-08-11 08:30:28 - Adding digital signature.
+2023-08-11 08:30:28 - Adding digital signature.
+2023-08-11 08:31:08 - starting visual cryptography
+2023-08-11 08:31:20 - Creating shares.
+2023-08-11 08:31:20 - Adding digital signature.
+2023-08-11 08:31:20 - Adding digital signature.
+2023-08-11 08:31:42 - Decrypting shares.
+2023-08-11 08:31:54 - Verifying signature.
+2023-08-11 08:31:54 - Verifying signature.
+2023-08-11 08:32:08 - Verifying digital signature.
+2023-08-11 08:32:23 - Verifying signature.
+2023-08-11 08:32:23 - Verifying signature.
+2023-08-11 08:32:47 - starting Image Encryption Decryption
+2023-08-11 08:33:48 - Image Decrypted successfully
+2023-08-11 08:34:14 - Image reset to the original format
+2023-08-11 08:34:35 - Opening Image Hiding App.
+2023-08-11 08:34:54 - Selecting cover image.
+2023-08-11 08:35:19 - Selecting secret image.
+2023-08-11 08:35:34 - Hiding secret image.
+2023-08-11 08:36:09 - Loading stego image.
+2023-08-11 08:36:29 - Extracting hidden image.
+2023-08-11 08:36:57 - Opening Image Hiding App options window.
+2023-08-11 08:37:00 - Opening image.
+2023-08-11 08:37:18 - Encrypting and compressing image.
+2023-08-11 08:37:18 - Encrypting data.
+2023-08-11 08:37:18 - Compressing data.
+2023-08-11 08:37:59 - Decrypting and decompressing image.
+2023-08-11 08:38:13 - Decompressing data.
+2023-08-11 08:38:13 - Decrypting data.
+2023-08-11 08:39:04 - Checking metadata.
+2023-08-11 19:31:47 - Encrypted Text: rovvyJ!@#
+2023-08-11 19:31:48 - Copied text to clipboard.
+2023-08-11 19:31:49 - Pasted text from clipboard.
+2023-08-11 19:31:50 - Decrypted Text: hello#123
+2023-08-11 20:01:22 - Start button clicked.
+2023-08-11 20:14:19 - starting Image Encryption Decryption
+2023-08-11 20:22:38 - Opening Image Hiding App.
+2023-08-11 20:27:45 - Opening Image Hiding App options window.
+2023-08-11 20:29:09 - Opening Image Hiding App options window.
+2023-08-11 20:36:37 - Opening Image Hiding App.
